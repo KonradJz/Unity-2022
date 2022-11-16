@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-public class Zad5 : MonoBehaviour
+public class move4 : MonoBehaviour
 {
     public GameObject block;
     public int howMany = 10;
